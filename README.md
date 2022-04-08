@@ -3,6 +3,6 @@
 
 
 
-# Dans  le test  API on a utilisé  mocha supertest   
+# Dans  le test  API on a utilisé  mocha chai
 # Lancer test:
 npm test
